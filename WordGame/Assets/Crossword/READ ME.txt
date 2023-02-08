@@ -1,0 +1,30 @@
+﻿WHAT IS THIS?
+
+This is a simple crossword game project.
+
+===========================================================================================================
+
+HOW TO USE IT?
+
+1) Open example scene "Crossword" that is included in this package.
+2) Run it. Start selecting the word by clicking the left mouse button. Hold it pressed until you selected all the letters. Then release it. If the selected word is correct, the letter will change color to the green.
+3) Select game object "Main camera" in hierarchy tab. There's Crossword.cs script attach to it. Open script in your editor
+4) You can see documented code.
+
+===========================================================================================================
+
+CAN I CHANGE THE CODE?
+
+Yes, you can.
+
+===========================================================================================================
+
+WHERE CAN I USE THIS?
+
+Everywhere - free project, commercial project etc...
+
+===========================================================================================================
+
+CONTACT?
+
+tb@tomislavbali.com
